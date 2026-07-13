@@ -1,0 +1,23 @@
+{
+  "name": "zigoricko • bio",
+  "short_name": "zigoricko",
+  "description": "0xdead.code, InfoSec enthusiast. Python, C++, Linux, HTML.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12181b",
+  "theme_color": "#12181b",
+  "icons": [
+    {
+      "src": "avatar.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "avatar.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
